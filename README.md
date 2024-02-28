@@ -11,3 +11,5 @@ Smart home locks combine electronic components and connectivity, allowing access
 4. Solenoid
 5. Leds
 6. Buzzer
+
+![1](https://github.com/Ali-Alrefaee/Smart_Door_Lock_with_mobile_app/assets/138380690/78adf17e-6fd2-4cb3-9a3e-523b723a0ec8)
