@@ -6,7 +6,7 @@ Smart home locks combine electronic components and connectivity, allowing access
 
 # Components
 1. Atmga32 MCU
-2. Mobile app
+2. Mobile app (MIT App)
 3. Bluetooth Module
 4. Solenoid
 5. Leds
