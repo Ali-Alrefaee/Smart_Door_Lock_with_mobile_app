@@ -1,4 +1,4 @@
-# Smart_Door_Lock_with_mobile_app
+# Smart_Home_with_mobile_app
 IMT_Graduation Project
 
 # Description
