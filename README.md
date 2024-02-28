@@ -4,7 +4,7 @@ IMT_Graduation Project
 # Description
 Smart home locks combine electronic components and connectivity, allowing access and control via mobile apps. Utilizing technologies like microcontrollers, solenoids, buzzers, and Bluetooth modules, these locks enhance security and convenience, transforming traditional locks into intelligent, connected devices for modern homes.
 
-#Components
+# Components
 1. Atmga32 MCU
 2. Mobile app
 3. Bluetooth Module
